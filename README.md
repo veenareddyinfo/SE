@@ -1,5 +1,6 @@
 
 Weather Modeling Using Quadratic Solution
+
 📌 Overview:
 This project models temperature changes over time using the quadratic equation:
 
