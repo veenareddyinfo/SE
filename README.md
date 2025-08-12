@@ -7,11 +7,8 @@ T(t)=aX^2 + bX + c
 
 It is implemented in three stages:
 Hard-coded variables (keyboard input)
-
 Read from a file (single set of inputs)
-
 Read from a file (multiple sets of inputs)
-
 Each stage plots a temperature-time curve using Matplotlib.
 
 📂 Files:
